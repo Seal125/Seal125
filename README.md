@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephanie! (@Seal125)
-- 👀 I’m currently working on a project utilizing Next.js to call an API (still looking) and utilize its features!
-- 🌱 I’m currently reviewing some of my front-end chops, as I've worked on back-end related tech (Python) for a while!
+- 👀 I’m currently looking into Ruby on Rails, mostly for fun but also to learn something new!
+- 🌱 I primarily work in Python (FastAPI), and a tiny bit of React when the occasion calls for it.
 
 <!---
 Seal125/Seal125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
