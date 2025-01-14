@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephanie! (@Seal125)
-- 👀 I’m currently looking into Ruby on Rails, mostly for fun but also to learn something new!
+- 👀 I'm interview prepping! Which means a lot of data structures and architecture!
 - 🌱 I primarily work in Python (FastAPI), and a tiny bit of React when the occasion calls for it.
 
 <!---
